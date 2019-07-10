@@ -80,6 +80,3 @@ def off() {
 def setCommand(command) {
 	state.command = command
 }
-
-
-
